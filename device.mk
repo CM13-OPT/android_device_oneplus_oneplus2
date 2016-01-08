@@ -101,6 +101,10 @@ PRODUCT_PACKAGES += \
     AntHalService \
     com.dsi.ant.antradio_library \
     libantradio
+    
+# Camera
+PRODUCT_PACKAGES += \
+	Snap
 
 # Audio
 PRODUCT_COPY_FILES += \
